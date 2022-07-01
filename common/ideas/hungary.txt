@@ -2,9 +2,9 @@ ideas = {
 
 	country = {
 
-		HUN_treaty_of_triannon = {
+		SCO_glasgow_national_railroad = {
 			allowed = {
-				original_tag = HUN
+				original_tag = SCO
 				always = no
 			}
 			available = {
@@ -12,8 +12,7 @@ ideas = {
 			}
 
 			modifier = {
-				conscription = -0.005
-				production_speed_arms_factory_factor = -0.5
+				production_speed_arms_factory_factor = 0.1
 			}
 		}
 		HUN_treaty_of_triannon_2 = {
